@@ -1,0 +1,22 @@
+Fitter Status : Successful - Thu Dec 29 23:11:16 2016
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Standard Edition
+Revision Name : polynomial_topentity_0
+Top-level Entity Name : polynomial_topentity_0
+Family : Arria II GZ
+Device : EP2AGZ225FF35C3
+Timing Models : Final
+Logic utilization : < 1 %
+    Combinational ALUTs : 32 / 179,200 ( < 1 % )
+    Memory ALUTs : 0 / 89,600 ( 0 % )
+    Dedicated logic registers : 0 / 179,200 ( 0 % )
+Total registers : 0
+Total pins : 112 / 634 ( 18 % )
+Total virtual pins : 0
+Total block memory bits : 0 / 11,381,760 ( 0 % )
+DSP block 18-bit elements : 14 / 800 ( 2 % )
+Total GXB Receiver Channel PCS : 0 / 16 ( 0 % )
+Total GXB Receiver Channel PMA : 0 / 16 ( 0 % )
+Total GXB Transmitter Channel PCS : 0 / 16 ( 0 % )
+Total GXB Transmitter Channel PMA : 0 / 16 ( 0 % )
+Total PLLs : 0 / 6 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )

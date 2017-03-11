@@ -1,0 +1,11 @@
+Fitter Status : Successful - Thu Dec 29 01:39:47 2016
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Standard Edition
+Revision Name : polynomial_topentity_0
+Top-level Entity Name : polynomial_topentity_0
+Family : MAX II
+Device : EPM1270T144C3
+Timing Models : Final
+Total logic elements : 1,134 / 1,270 ( 89 % )
+Total pins : 32 / 116 ( 28 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
